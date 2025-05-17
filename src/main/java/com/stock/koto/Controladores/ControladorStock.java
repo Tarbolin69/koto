@@ -4,10 +4,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
-public class ControladorIndex {
-
-    @GetMapping("/")
-    public String index() {
-        return "index";
+public class ControladorStock {
+    @GetMapping("/stock")
+    public String hola() {
+        return "stock";
     }
 }

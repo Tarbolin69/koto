@@ -1,4 +1,4 @@
-package productos;
+package com.stock.koto.Logica.productos;
 
 import java.time.LocalDate;
 

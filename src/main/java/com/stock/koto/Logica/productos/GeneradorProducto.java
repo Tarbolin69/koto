@@ -1,4 +1,4 @@
-package productos;
+package com.stock.koto.Logica.productos;
 
 public class GeneradorProducto {
         public ProductoNoPerecedero generarProductoNoPerecedero(String nombre, int precioBase, int unidades) {

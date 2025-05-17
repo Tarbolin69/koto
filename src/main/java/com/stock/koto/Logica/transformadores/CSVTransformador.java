@@ -1,9 +1,9 @@
-package transformadores;
+package com.stock.koto.Logica.transformadores;
 
-import productos.Producto;
-import productos.ProductoNoPerecedero;
-import productos.ProductoPerecedero;
-import productos.Stock;
+import com.stock.koto.Logica.productos.Producto;
+import com.stock.koto.Logica.productos.Stock;
+import com.stock.koto.Logica.productos.ProductoNoPerecedero;
+import com.stock.koto.Logica.productos.ProductoPerecedero;
 
 import java.io.*;
 import java.time.LocalDate;
